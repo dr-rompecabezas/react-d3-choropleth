@@ -1,4 +1,4 @@
-# React D3 Choropleth Map
+# React & D3 Choropleth Map
 
 This project was created as part of the freeCodeCamp [Data Visualization Certification](https://www.freecodecamp.org/learn/).
 
