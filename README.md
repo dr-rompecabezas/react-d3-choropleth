@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React D3 Choropleth Map
+
+This project was created as part of the freeCodeCamp [Data Visualization Certification](https://www.freecodecamp.org/learn/).
+
+See live demo at [CodePen](https://codepen.io/dr_rompecabezas/full/ZEeKQrw).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
